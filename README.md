@@ -36,9 +36,13 @@
 ### ✅ REQUIREMENTS:
 
 ```bash
-pkg update -y && pkg upgrade -y
-pkg install python -y
-pip install requests
+# 1. pkg update -y && pkg upgrade -y
+
+# 2. pkg install python git -y
+
+# 3. pip install --upgrade pip
+
+# 4. pip install requests colorama urllib3  # its required for run this tools in TERMUX just copy & paste TERMUX #
 ```
 
 ---
@@ -48,21 +52,20 @@ pip install requests
 ```bash
 git clone https://github.com/Androidnetwork108/Web_page-scanner.git
 ls
-cd Web_page-scanner
-python main.py
+cd Web_page-scanner  
+python main.py     #this command run the tools👍✅DONE✓#
 ```
 
 ---
 
 ### 🛠️ USAGE:
 
-```bash
 Enter web URL: google.com
 → It auto converts to http://google.com/
 → Checks site status (200 OK or not)
 → Extracts webpage <title> & displays in hacker-style
 → Then scrolls the webpage source like a hacker
-```
+
 
 ---
 
