@@ -46,7 +46,8 @@ pip install requests
 ### 🔥 INSTALLATION:
 
 ```bash
-git clone https://github.com/Androidnetwork108/Web_page-scanner/blob/main/main.py
+git clone https://github.com/Androidnetwork108/Web_page-scanner.git
+ls
 cd Web_page-scanner
 python main.py
 ```
