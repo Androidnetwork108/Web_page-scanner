@@ -67,7 +67,24 @@ Enter web URL: google.com
 ---
 
 ### 📸 SCREENSHOT:
-*(Screenshot_2025-04-23-05-40-45-47_84d3000e3f4017145260f7618db1d683.jpg)*
+<p align="center">
+  <a href="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_082200.jpg">
+    <img src="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_082200.jpg?raw=true" width="300"/>
+  </a>
+  <a href="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_081813.jpg">
+    <img src="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_081813.jpg?raw=true" width="300"/>
+  </a>
+  <a href="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_081944.jpg">
+    <img src="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_081944.jpg?raw=true" width="300"/>
+  </a>
+  <a href="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/Screenshot_2025-04-23-05-42-16-71_84d3000e3f4017145260f7618db1d683.jpg">
+    <img src="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/Screenshot_2025-04-23-05-42-16-71_84d3000e3f4017145260f7618db1d683.jpg?raw=true" width="300"/>
+  </a>
+  <a href="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_081627.jpg">
+    <img src="https://github.com/Androidnetwork108/Web_page-scanner/blob/main/image/IMG_20250423_081627.jpg?raw=true" width="300"/>
+  </a>
+</p>
+---
 
 ---
 
