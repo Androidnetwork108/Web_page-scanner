@@ -36,13 +36,13 @@
 ### ✅ REQUIREMENTS:
 
 ```bash
-# 1. pkg update -y && pkg upgrade -y
+ pkg update -y && pkg upgrade -y
 
-# 2. pkg install python git -y
+ pkg install python git -y
 
-# 3. pip install --upgrade pip
+ pip install --upgrade pip
 
-# 4. pip install requests colorama urllib3  # its required for run this tools in TERMUX just copy & paste TERMUX #
+ pip install requests colorama urllib3  # its required for run this tools in TERMUX just copy & paste TERMUX #
 ```
 
 ---
