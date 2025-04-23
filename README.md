@@ -46,8 +46,8 @@ pip install requests
 ### 🔥 INSTALLATION:
 
 ```bash
-git clone https://github.com/yourusername/web-page_scanner
-cd web-page_scanner
+git clone https://github.com/Androidnetwork108/Web_page-scanner/blob/main/main.py
+cd Web_page-scanner
 python main.py
 ```
 
@@ -66,7 +66,7 @@ Enter web URL: google.com
 ---
 
 ### 📸 SCREENSHOT:
-*(You can upload screenshot images here and link them)*
+*(Screenshot_2025-04-23-05-40-45-47_84d3000e3f4017145260f7618db1d683.jpg)*
 
 ---
 
